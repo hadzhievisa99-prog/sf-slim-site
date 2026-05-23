@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hadzhievisa99-prog.github.io/sf-slim-site/sitemap.xml
